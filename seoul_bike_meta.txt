@@ -1,0 +1,44 @@
+[서울시 따릉이 공공데이터 출력 정보 요약]
+1. 기본 응답 정보
+
+list_total_count : 총 데이터 건수
+
+RESULT.CODE : 요청결과 코드
+
+RESULT.MESSAGE : 요청결과 메시지
+
+2. 상세 데이터 항목
+
+BIKE_ID : 자전거ID
+
+RENT_DT : 대여일시
+
+RENT_ID : 대여소번호
+
+RENT_NM : 대여소명
+
+RENT_HOLD : 대여거치대
+
+RTN_DT : 반납일시
+
+RTN_ID : 반납대여소대여소번호
+
+RTN_NM : 반납대여소명
+
+RTN_HOLD : 반납거치대
+
+USE_MIN : 사용(분)
+
+USE_DST : 이용거리(M)
+
+USR_CLS_CD : 사용자종류
+
+SEX_CD : 성별
+
+BIRTH_YEAR : 생년
+
+RENT_STATION_ID : 대여대여소ID
+
+RETURN_STATION_ID : 반납대여소ID
+
+BIKE_SE_CD : 자전거 구분
